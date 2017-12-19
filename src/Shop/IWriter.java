@@ -1,0 +1,4 @@
+package Shop;
+
+interface IWriter {
+}
